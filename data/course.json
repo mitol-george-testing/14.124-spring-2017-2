@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a3fdc8c3-5835-978d-778c-8b6eecdacaf7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Microeconomic Theory IV",
+  "course_description": "The topic of the class is information and contract theory. The purpose is to give an introduction to some of the main subjects in this field: decision making under uncertainty, risk sharing, moral hazard, adverse selection, mechanism design, and incomplete contracting.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.124",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
